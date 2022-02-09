@@ -1,0 +1,65 @@
+#banner{
+    color:white;
+    background-color:#5b493c;
+    height: 100px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#l-menu{
+    background-color:#f99a3e;
+}
+    
+
+#t-menu{
+    background-color:#c39182;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contentAB{
+    background-color:#f2f2f2;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#contentC{
+    background-color:#ffff;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#photoPink{
+    background-color:#c5697a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+#photoBlue{
+    background-color:#00a2b6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#footer{
+    color:white;
+    background-color:#5b493c; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-size:larger;
+    font-weight:500;
+}
+
